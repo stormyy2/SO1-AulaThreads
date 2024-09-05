@@ -1,0 +1,10 @@
+package controller;
+
+public class ThreadCalc extends Thread{
+	
+	private int vet[];
+	
+	public ThreadCalc() {
+		
+	}
+}

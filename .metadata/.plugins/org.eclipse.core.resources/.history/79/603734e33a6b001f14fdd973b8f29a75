@@ -1,0 +1,14 @@
+package controller;
+
+public class ThreadVetor extends Thread{
+	private int vetor[];
+	private int numero;
+	
+	
+	public ThreadVetor(int vet[], int num) {
+		
+	}
+	
+	
+	
+}

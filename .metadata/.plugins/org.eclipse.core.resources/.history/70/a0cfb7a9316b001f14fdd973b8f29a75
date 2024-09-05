@@ -1,0 +1,11 @@
+package view;
+import controller.ThreadCalc;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ThreadCalc metodo = new ThreadCalc();
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package controller;
+
+public class ThreadCalc extends Thread{
+	
+	private int vet[];
+	
+	public ThreadCalc(int vetor[]) {
+		vet = vetor;
+	}
+	
+	public void run() {
+		int soma = 0;
+	}
+}

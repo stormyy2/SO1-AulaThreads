@@ -1,0 +1,13 @@
+package view;
+import controller.ThreadCalc;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int matriz[][] = new int[][];
+		for(int i)
+		ThreadCalc metodo = new ThreadCalc();
+
+	}
+
+}

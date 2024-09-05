@@ -1,0 +1,14 @@
+package view;
+import javax.swing.JOptionPane;
+
+import controller.ThreadVetor;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		int vetor[] = new int[1000];
+		int num = Integer.parseInt(JOptionPane.showInputDialog("Digite um número qualquer par ou ímpar: "));
+	}
+
+}

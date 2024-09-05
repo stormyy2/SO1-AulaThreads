@@ -1,0 +1,16 @@
+package view;
+import controller.Metodo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Metodo metodos = new Metodo();
+		metodos.start();
+		
+		
+		for(int i = 0; i <= 5 ; i++) {
+			
+		}
+	}
+
+}
